@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "tiny-city",
+"productVersion": "0.1",
+"dataUrl": "20200608-web.data.unityweb",
+"wasmCodeUrl": "20200608-web.wasm.code.unityweb",
+"wasmFrameworkUrl": "20200608-web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
